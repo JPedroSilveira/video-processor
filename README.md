@@ -1,2 +1,8 @@
-# video-processor
-Basic images operations on webcam frames
+# Video Processor
+## Basic video processor using a webcam
+### Filters:
+- Gaussian
+- Canny
+- Sobel
+- Negative
+- Gray
